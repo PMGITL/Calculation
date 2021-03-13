@@ -16,7 +16,7 @@ import com.example.calculationtest.databinding.FragmentLoseBinding;
 
 /**
  * A simple {@link Fragment} subclass.
- * Use the  factory method to
+ * Use the  factory method to 888
  * create an instance of this fragment.
  */
 public class LoseFragment extends Fragment {
